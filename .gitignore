@@ -1,4 +1,5 @@
 # Miscellaneous
+config.dart
 *.class
 *.log
 *.pyc
