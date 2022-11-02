@@ -1,3 +1,3 @@
 # clima
 
-Weather app from udemy flutter course
+Simple weather app developed in Flutter. 
